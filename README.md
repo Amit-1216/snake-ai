@@ -15,8 +15,8 @@ The agent learns to play the game and achieves consistent scores of 50–70+.
 - Achieves consistent 55+ scores
 
 ## 🎥 Demo
-Available on LinkedIn
-<img width="473" height="267" alt="image" src="https://github.com/user-attachments/assets/9721c22f-f5ba-481a-ac10-7120e4f9a01f" />
+![ScreenRecording2026-03-21003914-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/46b08860-e6ee-4d61-a784-22bcfb17c5f2)
+
 
 
 ## 🛠 Tech Stack
